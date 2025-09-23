@@ -21,7 +21,7 @@
 
 ## 🌐 Encuéntrame en:  
 - ✉️ [Email](mailto:alvaromateosgalvez@gmail.com)
-- 📸 [Instagram](https://www.instagram.com/alvaroomateoos_/) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  
+- 📸 [Instagram](https://www.instagram.com/alvaroomateoos_/) 
 
 ---
 
