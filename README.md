@@ -20,7 +20,7 @@
 - Gestión de base de datos con SQL Server
 
 ## 🌐 Encuéntrame en:  
-- ✉️ [Email](alvaromateosgalvez@gmail.com)
+- ✉️ [Email](mailto:alvaromateosgalvez@gmail.com)
 - 📸 [Instagram](alvaroomateoos_)
 
 ---
