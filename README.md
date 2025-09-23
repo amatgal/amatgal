@@ -15,9 +15,9 @@
 ### ⚙️ Habilidades
 - Administración de sistemas en **Windows y Linux**  
 - Virtualización con **Proxmox / VirtualBox**  
-- Gestión de redes y seguridad básica
-- Creación de documentos HTML y CSS para páginas web
-- Gestión de base de datos con SQL Server
+- Gestión de redes y seguridad básica  
+- Creación de documentos **HTML y CSS** para páginas web  
+- Gestión de bases de datos con **SQL Server**  
 
 ## 🌐 Encuéntrame en:  
 - ✉️ [Email](mailto:alvaromateosgalvez@gmail.com)
