@@ -2,8 +2,8 @@
 
 🎓 Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**  
 💻 Con formación en **Bachillerato Tecnológico**  
-🗣️ Titulado en **B1 de Cambridge** en Inglés con iniciativa a seguir aprendiendo
 🌱 Apasionado por el mundo de la **informática, las redes y el desarrollo web**  
+🗣️ Titulado en **B1 de Cambridge** en Inglés con iniciativa a seguir aprendiendo
 
 ---
 
