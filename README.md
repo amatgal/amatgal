@@ -1,3 +1,5 @@
+![Banner]([https://i.imgur.com/zX2q6Qf.png](https://drive.google.com/file/d/1v9rpodZEo7Hw68v2F_V0Ris4gJN54XfG/view?usp=sharing))
+
 # 👋 Hola, soy Álvaro
 
 🎓 Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**  
