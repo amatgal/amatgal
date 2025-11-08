@@ -11,7 +11,7 @@
 - 📖 Actualmente finalizando mi **Grado Superior en ASIR**  
 - 🖥️ Conocimientos en **administración de sistemas, redes y bases de datos**  
 - 📚 Certificado en **CCNA1 (Cisco Certified Network Associate)**  
-- 🌍 Interesado en seguir aprendiendo sobre **ciberseguridad y desarrollo web**
+- 🌍 Interesado en seguir aprendiendo sobre **ciberseguridad y desarrollo multiplataforma**
   
 ### ⚙️ Habilidades
 - Administración de sistemas en **Windows y Linux**  
