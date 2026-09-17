@@ -10,16 +10,16 @@
 ---
 
 ## 🚀 Sobre mí
-- 📖 Actualmente finalizando mi **Grado Superior en ASIR**  
+- 📖 Actualmente finalizando mi **Curso de especializacioón en ciberseguridad**  
 - 🖥️ Conocimientos en **administración de sistemas, redes y bases de datos**  
 - 📚 Certificado en **CCNA1 (Cisco Certified Network Associate)**  
 - 🌍 Interesado en seguir aprendiendo sobre **ciberseguridad y desarrollo multiplataforma**
   
 ### ⚙️ Habilidades
 - Administración de sistemas en **Windows y Linux**  
-- Virtualización con **Proxmox / VirtualBox**  
-- Gestión de redes y seguridad básica  
-- Creación de documentos **HTML y CSS** para páginas web  
+- Virtualización con **Proxmox / VirtualBox / VMWare**  
+- Gestión de redes y seguridad  
+- Creación de documentos **HTML / CSS / PHP ** para páginas web  
 - Gestión de bases de datos con **SQL Server**  
 
 ## 🌐 Encuéntrame en:  
