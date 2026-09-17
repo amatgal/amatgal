@@ -1,6 +1,7 @@
 # 👋 Hola, soy Álvaro
 
-🎓 Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**  
+🛡️ Estudiante del **Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información** 🔐
+🎓 **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**  
 💻 Con formación en **Bachillerato Tecnológico**  
 🌱 Apasionado por el mundo de la **informática, las redes y el desarrollo web**  
 🗣️ Titulado en **B1 de Cambridge** en Inglés con iniciativa a seguir aprendiendo
